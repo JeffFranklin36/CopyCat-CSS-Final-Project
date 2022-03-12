@@ -1,0 +1,13 @@
+main img {
+ width: 100%;
+ height: 100vh;
+
+}
+
+main img:hover {
+ opacity: 80%;
+}
+
+main {
+ border: 2px solid red;
+}
